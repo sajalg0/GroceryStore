@@ -31,7 +31,7 @@ All the code used, are well organized and layered to make the development precis
 - Token Based Authentication.
 - Only COD and offline payment support.
 
-**_For Api integration Please Contact us:- plutonic.in@gmail.com_**
+**_For Api integration Please Contact us:- sajalg897@gmail.com_**
 
 **Premium Paid Features**
 - Python django backend.
@@ -50,7 +50,7 @@ All the code used, are well organized and layered to make the development precis
 - Web store front end using React & Redux.
 
 
-**_For premium features Contact us:- plutonic.in@gmail.com_** 
+**_For premium features Contact us:- sajalg897@gmail.com_** 
 
 **Upcoming Premium Paid Features**
 - Multi vendor support.
