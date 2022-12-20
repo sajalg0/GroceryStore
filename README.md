@@ -64,20 +64,7 @@ All the code used, are well organized and layered to make the development precis
 
 
 
-**_For upcoming premium features Contact us:- plutonic.in@gmail.com_**  
 
-
-* [GroceryStore](https://github.com/plutonicdev/GroceryStore-with-server/blob/master/GroceryStore2.1.apk) - Download APK
-
-* [GroceryStore](https://megagrocerystore.000webhostapp.com/) - Grocery Store Website (Demo)
-
-* [GroceryStoreAdmin](https://megagrocerystore.000webhostapp.com/admin/) - Grocery Store Admin (Demo)
-
-- username/password for Admin Demo :- admin/Admin@2020
-
-- For Backend API & Admin panel source code send email to plutonic.in@gmail.com
-
-* [GroceryStore-Android-Ios](https://github.com/plutonicdev/GroceryStore-with-server/blob/master/grocerystore-reactnative.png) - Grocery Store ReactNative (Demo)
 
 
 
